@@ -25,6 +25,7 @@ To request a feature, just create an issue on github and I'll try to respond as 
 I (Neoskimmer) made the game and all the art :)))
 
 The background (the moving squares thing) was built by Bluezebra289. Go check them out at https://scratch.mit.edu/users/bluezebra289
+
 The Music is called "Getting It Done" by Kevin Macleod and is so good :D
 
 "Getting it Done" Kevin MacLeod (incompetech.com)
