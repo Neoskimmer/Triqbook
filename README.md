@@ -1,6 +1,6 @@
 ![6f7de3b2-d999-4c09-b7aa-e8485486b466(1)](https://github.com/Neoskimmer/Triqbook/assets/152151849/fe1c2cd3-3fc5-4dce-92e5-3b84a5101d42)
 
-You might find yourself asking: "What is Triqbook and why do I need it?" Here's why:Triqbook is a thing built in Turbowarp (https://turbowarp.org/editor/) which is an editor/mod for scratch. I use scratch/turbowarp because I don't know anything else and I'm not bothered to learn anything else.
+You might find yourself asking: "What is Triqbook and why do I need it?" Here's why: Triqbook is a thing built in Turbowarp (https://turbowarp.org/editor/) which is an editor/mod for scratch. I use scratch/turbowarp because I don't know anything else and I'm not bothered to learn anything else.
 Also, scratch is just superior to EVERYTHING because it works so smoothly and can be compiled into anything, even windows programs.
 
 Feel free to try out the old versions/the new versions, because the final version isn't done yet and won't be done for a while due to school and stuff :)))
